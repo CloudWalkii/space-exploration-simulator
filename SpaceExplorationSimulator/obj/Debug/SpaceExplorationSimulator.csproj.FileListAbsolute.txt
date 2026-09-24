@@ -1,7 +1,0 @@
-C:\Users\mamdo\source\repos\SpaceExplorationSimulator\bin\Debug\SpaceExplorationSimulator.exe.config
-C:\Users\mamdo\source\repos\SpaceExplorationSimulator\bin\Debug\SpaceExplorationSimulator.exe
-C:\Users\mamdo\source\repos\SpaceExplorationSimulator\bin\Debug\SpaceExplorationSimulator.pdb
-C:\Users\mamdo\source\repos\SpaceExplorationSimulator\obj\Debug\SpaceExplorationSimulator.csproj.AssemblyReference.cache
-C:\Users\mamdo\source\repos\SpaceExplorationSimulator\obj\Debug\SpaceExplorationSimulator.csproj.CoreCompileInputs.cache
-C:\Users\mamdo\source\repos\SpaceExplorationSimulator\obj\Debug\SpaceExplorationSimulator.exe
-C:\Users\mamdo\source\repos\SpaceExplorationSimulator\obj\Debug\SpaceExplorationSimulator.pdb
